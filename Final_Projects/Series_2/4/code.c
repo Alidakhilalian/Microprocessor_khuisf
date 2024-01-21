@@ -1,4 +1,3 @@
-
 #include <mega32.h>
 #include <delay.h>
 
